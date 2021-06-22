@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stevenmdunn
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently attempting to learn basic AI
 
 
 <!---
